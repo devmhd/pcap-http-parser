@@ -1,0 +1,265 @@
+0. GET
+http://www.buet.ac.bd/
+
+1. GET
+http://www.buet.ac.bd/wp-content/themes/default/style.css
+
+2. GET
+http://www.buet.ac.bd/wp-content/plugins/pagenavi/pagenavi-css.css
+
+3. GET
+http://www.buet.ac.bd/wp-content/plugins/swfEmbed/swfobject.js
+
+4. GET
+http://www.buet.ac.bd/wp-content/plugins/swfEmbed/webEngInsertWPFlash.js
+
+5. GET
+http://www.buet.ac.bd/wp-content/themes/default/js/jquery-1.2.6.js
+
+6. GET
+http://www.buet.ac.bd/wp-content/uploads/2013/09/ugadmission.jpg
+
+7. GET
+http://www.buet.ac.bd/wp-content/themes/default/images/mail_services1.jpg
+
+8. GET
+http://www.buet.ac.bd/wp-content/themes/default/images/press.jpg
+
+9. GET
+http://www.buet.ac.bd/wp-content/uploads/2014/06/mainnews300614.jpg
+
+10. GET
+http://www.buet.ac.bd/wp-content/uploads/2014/06/mainnews25614.jpg
+
+11. GET
+http://www.buet.ac.bd/wp-content/themes/default/images/info.jpg
+
+12. GET
+http://www.buet.ac.bd/wp-content/themes/default/images/news_list.gif
+
+13. GET
+http://www.google-analytics.com/ga.js
+
+14. GET
+http://www.buet.ac.bd/wp-content/themes/default/images/internet_services.jpg
+
+15. GET
+http://www.buet.ac.bd/wp-content/themes/default/images/backgorund.jpg
+
+16. GET
+http://www.buet.ac.bd/wp-content/themes/default/images/header_top.jpg
+
+17. GET
+http://www.buet.ac.bd/wp-content/themes/default/images/bg.jpg
+
+18. GET
+http://www.buet.ac.bd/wp-content/themes/default/images/header.jpg
+
+19. GET
+http://www.google-analytics.com/__utm.gif?utmwv=5.5.5&utms=1&utmn=713451209&utmhn=www.buet.ac.bd&utmcs=UTF-8&utmsr=320x534&utmvp=980x1408&utmsc=32-bit&utmul=en-us&utmje=1&utmfl=-&utmdt=Bangladesh%20University%20of%20Engineering%20and%20Technology&utmhid=1742637285&utmr=-&utmp=%2F&utmht=1409031099401&utmac=UA-18132256-1&utmcc=__utma%3D30206496.1421489691.1409031099.1409031099.1409031099.1%3B%2B__utmz%3D30206496.1409031099.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qB~
+Queries:
+	0. utmac : UA-18132256-1
+	1. utmcc : __utma=30206496.1421489691.1409031099.1409031099.1409031099.1;+__utmz=30206496.1409031099.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none);
+	2. utmcs : UTF-8
+	3. utmdt : Bangladesh University of Engineering and Technology
+	4. utmfl : -
+	5. utmhid : 1742637285
+	6. utmhn : www.buet.ac.bd
+	7. utmht : 1409031099401
+	8. utmje : 1
+	9. utmn : 713451209
+	10. utmp : /
+	11. utmr : -
+	12. utms : 1
+	13. utmsc : 32-bit
+	14. utmsr : 320x534
+	15. utmu : qB~
+	16. utmul : en-us
+	17. utmvp : 980x1408
+	18. utmwv : 5.5.5
+
+20. GET
+http://www.buet.ac.bd/wp-content/themes/default/images/top_menu1.jpg
+
+21. GET
+http://www.buet.ac.bd/wp-content/themes/default/images/fotter_bg.jpg
+
+22. GET
+http://www.buet.ac.bd/wp-content/themes/default/images/footer.jpg
+
+23. GET
+http://www.buet.ac.bd/wp-content/themes/default/images/side_bg13.jpg
+
+24. GET
+http://www.buet.ac.bd/wp-content/themes/default/images/info_bar.jpg
+
+25. GET
+http://www.buet.ac.bd/wp-content/themes/default/images/indicator.gif
+
+26. GET
+http://www.buet.ac.bd/wp-content/themes/default/images/news_1.jpg
+
+27. POST
+http://infoc2.duba.net/c/
+
+28. GET
+http://www.buet.ac.bd/wp-content/themes/default/images/event_img.jpg
+
+29. GET
+http://www.buet.ac.bd/wp-content/themes/default/images/news_bar2.jpg
+
+30. GET
+http://www.buet.ac.bd/wp-content/themes/default/images/favicon.ico
+
+31. GET
+http://www.buet.ac.bd/?page_id=5
+Queries:
+	0. page_id : 5
+
+32. GET
+http://www.buet.ac.bd/wp-content/plugins/swfEmbed/swfobject.js
+
+33. GET
+http://www.buet.ac.bd/wp-content/plugins/swfEmbed/webEngInsertWPFlash.js
+
+34. GET
+http://www.google-analytics.com/__utm.gif?utmwv=5.5.5&utms=2&utmn=1505651232&utmhn=www.buet.ac.bd&utmcs=UTF-8&utmsr=320x534&utmvp=980x1408&utmsc=32-bit&utmul=en-us&utmje=1&utmfl=-&utmdt=Departments%20%C2%AB%20Bangladesh%20University%20of%20Engineering%20and%20Technology&utmhid=920053059&utmr=0&utmp=%2F%3Fpage_id%3D5&utmht=1409031113694&utmac=UA-18132256-1&utmcc=__utma%3D30206496.1421489691.1409031099.1409031099.1409031099.1%3B%2B__utmz%3D30206496.1409031099.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qB~
+Queries:
+	0. utmac : UA-18132256-1
+	1. utmcc : __utma=30206496.1421489691.1409031099.1409031099.1409031099.1;+__utmz=30206496.1409031099.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none);
+	2. utmcs : UTF-8
+	3. utmdt : Departments « Bangladesh University of Engineering and Technology
+	4. utmfl : -
+	5. utmhid : 920053059
+	6. utmhn : www.buet.ac.bd
+	7. utmht : 1409031113694
+	8. utmje : 1
+	9. utmn : 1505651232
+	10. utmp : /?page_id=5
+	11. utmr : 0
+	12. utms : 2
+	13. utmsc : 32-bit
+	14. utmsr : 320x534
+	15. utmu : qB~
+	16. utmul : en-us
+	17. utmvp : 980x1408
+	18. utmwv : 5.5.5
+
+35. GET
+http://www.buet.ac.bd/buet/wp-content/uploads/2007/04/dep.jpg
+
+36. GET
+http://www.buet.ac.bd/cse/
+
+37. GET
+http://www.buet.ac.bd/cse/common/csestyle.css
+
+38. GET
+http://www.buet.ac.bd/cse/images/searchtxt.gif
+
+39. GET
+http://www.buet.ac.bd/cse/images/searchsml2.gif
+
+40. GET
+http://www.buet.ac.bd/cse/images/rss.gif
+
+41. GET
+http://www.buet.ac.bd/cse/images/break/10.jpg
+
+42. GET
+http://www.buet.ac.bd/cse/images/break/20.jpg
+
+43. GET
+http://www.buet.ac.bd/cse/images/break/30.jpg
+
+44. GET
+http://www.buet.ac.bd/cse/news/fulbright/midified/2007_YSU.jpg
+
+45. GET
+http://www.buet.ac.bd/cse/images/backtile3.gif
+
+46. GET
+http://www.buet.ac.bd/cse/images/menuback2.gif
+
+47. GET
+http://www.buet.ac.bd/cse/images/listmarkxpgreen.gif
+
+48. GET
+http://www.buet.ac.bd/cse/images/bodytile.gif
+
+49. GET
+http://www.buet.ac.bd/cse/images/bullets/cal.png
+
+50. GET
+http://www.buet.ac.bd/cse/news/fulbright/midified/2008_2_AHS.jpg
+
+51. GET
+http://www.buet.ac.bd/cse/images/shadeback.gif
+
+52. GET
+http://www.buet.ac.bd/cse/images/bullets/front1.png
+
+53. GET
+http://www.buet.ac.bd/cse/news/photos/1-Featuresprospect1.jpg
+
+54. GET
+http://www.buet.ac.bd/cse/news/fulbright/midified/2009_AHR.jpg
+
+55. GET
+http://www.buet.ac.bd/cse/news/fulbright/midified/picSmall_Sumaiya.jpg
+
+56. GET
+http://www.buet.ac.bd/cse/news/fulbright/midified/2011_SIA.jpg
+
+57. GET
+http://www.buet.ac.bd/cse/news/fulbright/midified/2010_1_SB.jpg
+
+58. GET
+http://www.buet.ac.bd/cse/news/fulbright/midified/2010_2_AD.jpg
+
+59. GET
+http://www.buet.ac.bd/cse/news/fulbright/midified/2008_1_AK.jpg
+
+60. GET
+http://www.buet.ac.bd/cse/images/banfin.gif
+
+61. GET
+http://www.buet.ac.bd/cse/images/bullets/image.png
+
+62. GET
+http://www.buet.ac.bd/favicon.ico
+
+63. GET
+http://www.buet.ac.bd/?page_id=5
+Queries:
+	0. page_id : 5
+
+64. GET
+http://www.buet.ac.bd/
+
+65. GET
+http://www.google-analytics.com/__utm.gif?utmwv=5.5.5&utms=3&utmn=1497609642&utmhn=www.buet.ac.bd&utmcs=UTF-8&utmsr=320x534&utmvp=980x1408&utmsc=32-bit&utmul=en-us&utmje=1&utmfl=-&utmdt=Bangladesh%20University%20of%20Engineering%20and%20Technology&utmhid=960841085&utmr=-&utmp=%2F&utmht=1409031129138&utmac=UA-18132256-1&utmcc=__utma%3D30206496.1421489691.1409031099.1409031099.1409031099.1%3B%2B__utmz%3D30206496.1409031099.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qB~
+Queries:
+	0. utmac : UA-18132256-1
+	1. utmcc : __utma=30206496.1421489691.1409031099.1409031099.1409031099.1;+__utmz=30206496.1409031099.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none);
+	2. utmcs : UTF-8
+	3. utmdt : Bangladesh University of Engineering and Technology
+	4. utmfl : -
+	5. utmhid : 960841085
+	6. utmhn : www.buet.ac.bd
+	7. utmht : 1409031129138
+	8. utmje : 1
+	9. utmn : 1497609642
+	10. utmp : /
+	11. utmr : -
+	12. utms : 3
+	13. utmsc : 32-bit
+	14. utmsr : 320x534
+	15. utmu : qB~
+	16. utmul : en-us
+	17. utmvp : 980x1408
+	18. utmwv : 5.5.5
+
+66. GET
+http://www.gstatic.com/chrome/crlset/1811/crl-set-delta-1810-9835584996580169641.crx.data
+
